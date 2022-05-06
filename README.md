@@ -6,4 +6,4 @@ Data Science Portofolio
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value compaies put on python, excel, aws, and spark.
 
-![](//images/positions_by_state.png)
+![](//images/how-to-create-a-simple-linear-regression-equation.png.png)
